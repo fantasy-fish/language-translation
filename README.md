@@ -1,2 +1,2 @@
 # language-translation
-Udacity Deeplearning Nanodegree
+English-to-French with the seq2seq model
